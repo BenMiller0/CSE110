@@ -21,4 +21,6 @@ while (1) {
 
 
 
-[Link to top section](#Benjamin-Miller).
+Important Section links
+[My Recent Project](#Recent-Project).
+[Top section](#Benjamin-Miller).
