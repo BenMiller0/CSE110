@@ -21,7 +21,7 @@ while (1) {
 
 Here is some concept art of the bird:
 ![img1](images/ConceptArt1.jpg) 
-![img2](images/ConceptArt2.jpg) b
+![img2](images/ConceptArt2.jpg) 
 
 ### Here is a link to an MD file with all the fibinatic numbers I can calculate in my head:
 [Fib](fib.md)
