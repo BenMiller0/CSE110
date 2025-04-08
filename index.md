@@ -1,5 +1,5 @@
 # Benjamin Miller
-Hi! I am Benjamin Miller, a second year computer science student at **UC San Diego**!
+Hi! I am Benjamin Miller, a second year *computer science* student at **UC San Diego**!
 
 
 ### My Favorite Qoute
