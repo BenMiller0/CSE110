@@ -19,8 +19,8 @@ while (1) {
 ```
 [Link to the full repository](https://github.com/BenMiller0/teaAnimatronic/tree/main)
 
-![Here](ConceptArt.jpg) 
-
+![img1](images/ConceptArt1.jpg) 
+![img2](images/ConceptArt2.jpg) 
 
 
 Important Section links
