@@ -21,10 +21,36 @@ while (1) {
 
 Here is some concept art of the bird:
 ![img1](images/ConceptArt1.jpg) 
-![img2](images/ConceptArt2.jpg) 
+![img2](images/ConceptArt2.jpg) b
 
 ### Here is a link to an MD file with all the fibinatic numbers I can calculate in my head:
 [Fib](fib.md)
+
+### Here are my top 5 programming langauges ranked:
+1. C
+2. C++
+3. Java
+4. ARM Assembly
+5. Python
+
+### Here are all the programming langauges I've ever written code in:
+- System Verilog
+- C
+- C++
+- Java
+- ARM Assembly
+- Python
+- MatLab
+- Scratch
+- JavaScript
+- Typescript
+- Bash
+
+### My bucket list:
+- [x] (safely) Jump off a 900 foot tall building
+- [x] Get certified in scuba diving
+- [ ] Go to Japan
+- [ ] Go to every Disney and Universal Park in the word
 
 Important Section links
 [My Recent Project](#Recent-Project).
